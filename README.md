@@ -7,6 +7,6 @@ The code contains Cipher Encryption and Decryption techniques.
 5.Playfair Cipher<br>
 
 6. RSA<br>
-7.RSA digital signature
-8.Deffie hellman
-9.Man in Middle
+7.RSA digital signature<br>
+8.Deffie hellman<br>
+9.Man in Middle<br>
